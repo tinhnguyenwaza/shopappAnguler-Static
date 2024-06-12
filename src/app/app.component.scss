@@ -1,0 +1,52 @@
+.intro-section {
+    text-align: center;
+}
+.search-box {
+    display:flex;
+}
+ .product-item {
+    background-color: rgb(19,23, 42);
+    border: 1px solid rgb(35, 39,61);
+    border-radius: 20px ;
+    padding: 20px;
+    margin-bottom: 20px;
+ }
+
+ .product-imge {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+ }
+
+ .prodcut-name {
+    color: white;
+ }
+
+ .product-description {
+    color: rgb(173,178, 203);
+ }
+
+ .product-warranty {
+    color: rgb(242,126, 212);
+ }
+
+ .product-price {
+    color: rgb(242,126, 212);
+ }
+
+ .prodcut-rating {
+    color: yellow;
+    margin-top: 10px;
+ }
+
+ .product-actions {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+ }
+
+ .space-x {
+    margin: 0 10px;
+ }
+
+
